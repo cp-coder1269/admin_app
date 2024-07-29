@@ -53,7 +53,7 @@ Watch a [demonstrative video](https://drive.google.com/file/d/1Gw1lmTPa-ulLNhDXv
 ## Troubleshooting
 
 - **Database Connection Issues**: Verify that your MySQL server is running and properly configured on Node.js backend service.
-- **Email Sending Issues**: Check your Amazon SES configuration in the `.env` file.
+- **Email Sending Issues**: Check your Amazon SES configuration in the `.env` file on Node.js backend service.
 - **Application Errors**: Review the console output for any error messages and ensure that all dependencies are correctly installed.
 
 ## Contact
