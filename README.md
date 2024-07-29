@@ -13,12 +13,6 @@ This application is designed for administrators to manage user requests, includi
 1. **Admin Interface**: Provides a web-based interface for administrators to interact with user requests.
 2. **Node.js Backend**: Communicates with a Node.js backend service to handle database operations and email notifications.
 
-## Prerequisites
-
-- **Node.js**: Ensure you have Node.js installed on your machine.
-- **MySQL Database**: A MySQL server to store request data.
-- **Amazon SES**: Amazon Simple Email Service for sending emails.
-
 ## Setup
 
 ### 1. Clone the Repository
